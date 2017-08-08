@@ -12,6 +12,7 @@ public class FFLaunch {
 		driver.manage().window().maximize();
 		
 		driver.get("https://www.google.co.in/");
+		System.out.println("GIT Test");
 		
 		
 
