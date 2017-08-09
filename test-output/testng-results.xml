@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8451" started-at="2017-08-09T07:37:39Z" finished-at="2017-08-09T07:37:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8451" started-at="2017-08-09T07:37:39Z" finished-at="2017-08-09T07:37:48Z">
+      <class name="Testing.TestNG">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Testing.TestNG@383bfa16]" name="beforeClass" is-config="true" duration-ms="4203" started-at="2017-08-09T13:07:39Z" finished-at="2017-08-09T13:07:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Testing.TestNG@383bfa16]" name="f" duration-ms="4231" started-at="2017-08-09T13:07:43Z" finished-at="2017-08-09T13:07:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Testing.TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
