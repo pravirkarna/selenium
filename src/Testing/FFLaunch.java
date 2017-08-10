@@ -13,6 +13,7 @@ public class FFLaunch {
 		
 		driver.get("https://www.google.co.in/");
 		System.out.println("GIT Test");
+		System.out.println("GIT Test-2");
 		
 		
 
